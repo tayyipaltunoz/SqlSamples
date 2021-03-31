@@ -1,1 +1,2 @@
-# SqlSamples sadece sql örnek sorgular 
+sadece sql örnek sorgular 
+burada SqlSelectSamples.sql
